@@ -1,0 +1,57 @@
+.to-inline{
+	display: inline-block;
+	padding: 5px;
+	width: 315px;
+}
+.to_select {
+	width: 170px;
+	display: inline-block;
+}
+.infoHolder{
+	margin-bottom: 20px;
+	margin-top: 10px;
+	padding: 0px 10px 0px 50px;
+}
+.mustWrite{
+	display: inline-block;
+	color: red;
+	vertical-align: top;
+    line-height: 37px;	
+}
+.pushRight{
+	margin-left: 28px;
+}
+.footer{
+	text-align: left;
+	padding: 20px 10px 10px 10px;
+}
+.btn_1 {
+	width: 100px;
+	height: 30px;
+	background-color: #1b9bfe;
+	color: #FFFFFF;
+	border: none;
+	border-radius: 0;
+	display: inline-block;
+}
+.date-left{
+	display: inline-block;
+	width: 170px;
+	vertical-align: middle;
+	position: relative;
+}
+.menuContainer{
+	position: absolute;
+    top: 35px;
+    left: 0px;
+    width: 171px;
+    height: 151px;
+    overflow: auto;
+    border: 1px solid rgb(204, 204, 204);
+    z-index: 99;
+    background-color: rgb(255, 255, 255);
+    display: block;
+}
+.cantSee{
+	visibility: hidden;
+}
