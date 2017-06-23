@@ -5,5 +5,5 @@ $(function() {
 	$('#tall').setMustWrite();	
 	$('#sureBtn').click(function(){
 		$.checkMustWrite();
-	})
+	});
 });
